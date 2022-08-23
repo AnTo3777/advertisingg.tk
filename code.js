@@ -3,3 +3,7 @@ function changePage() {
 };
 
 
+function changePage() {
+    window.location.href="http://bn.plus/1IW7AA"; 
+};
+
