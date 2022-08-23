@@ -1,0 +1,33 @@
+* {
+    position: relative;
+}
+
+button {
+    background-color: #1B2697;
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border: 2px solid black;
+    margin: 0px 5px 0px 5px;
+}
+
+
+
+#paymentsBox {
+    position: relative;
+    margin: 100px auto 0px;
+    text-align: center;
+
+}
+
+#watchAdDiv {
+    margin: 100px auto 0px;
+    text-align: center;
+}
+
+#watchAd {
+    width: 120px;
+}
